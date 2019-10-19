@@ -26,3 +26,5 @@ matplotlib 3.1.0
 scikit-learn 0.21.2
 
 ipython 7.5.0
+
+![Test Image 1](Figure1.tiff)
