@@ -27,4 +27,4 @@ scikit-learn 0.21.2
 
 ipython 7.5.0
 
-![Test Image 1](Figure1.tiff)
+![Test Image 1](Figure1.eps)
