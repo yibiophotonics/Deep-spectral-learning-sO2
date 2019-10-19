@@ -15,10 +15,14 @@ Measurement of blood oxygen saturation (sO2) by optical imaging oximetry provide
 
 #### Requirements
 
-python 3.6
+python 3.7.1
 
-keras 2.1.2
+keras 2.2.4
 
-numpy 1.14.3
+numpy 1.16.4
 
-matplotlib 2.1.2
+matplotlib 3.1.0
+
+scikit-learn 0.21.2
+
+ipython 7.5.0
