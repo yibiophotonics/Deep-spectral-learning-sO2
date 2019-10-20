@@ -31,10 +31,16 @@ ipython 7.5.0
 
 ![  ](https://github.com/yibiophotonics/Deep-spectral-learning-sO2/blob/master/Figures-for-readme/Figure1.png)
 
-#### Network Structure
+#### Network Structure:
 
-#### How to run the demo
+![  ](https://github.com/yibiophotonics/Deep-spectral-learning-sO2/blob/master/Figures-for-readme/Figure3.png)
 
-#### Results
+#### How to run the demo:
 
+#### Results:
 
+![  ](https://github.com/yibiophotonics/Deep-spectral-learning-sO2/blob/master/Figures-for-readme/Figure4.png)
+
+![  ](https://github.com/yibiophotonics/Deep-spectral-learning-sO2/blob/master/Figures-for-readme/Figure6.png)
+
+![  ](https://github.com/yibiophotonics/Deep-spectral-learning-sO2/blob/master/Figures-for-readme/Figure7.png)
