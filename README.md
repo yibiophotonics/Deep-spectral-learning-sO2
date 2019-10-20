@@ -37,6 +37,10 @@ The fully connected neural network (FNN) model and the convolutional neural netw
 
 ![  ](https://github.com/yibiophotonics/Deep-spectral-learning-sO2/blob/master/Figures-for-readme/Figure3.png)
 
+#### Training and testing data from two literatures:
+
+![  ](https://github.com/yibiophotonics/Deep-spectral-learning-sO2/blob/master/Figures-for-readme/Figure2.png)
+
 #### How to run the demo:
 
 #### Results:
@@ -45,10 +49,10 @@ Predictions by the FNN and the CNN models:
 
 ![  ](https://github.com/yibiophotonics/Deep-spectral-learning-sO2/blob/master/Figures-for-readme/Figure4.png)
 
-Reconstrcuted sO_2 en face maps at hypoxia, nomaxia, and hyperxoia:
+Reconstrcuted sO2 en face maps at hypoxia, nomaxia, and hyperxoia:
 
 ![  ](https://github.com/yibiophotonics/Deep-spectral-learning-sO2/blob/master/Figures-for-readme/Figure6.png)
 
-Reconstrcuted sO_2 uncertainty en face maps at hypoxia, nomaxia, and hyperxoia:
+Reconstrcuted sO2 uncertainty en face maps at hypoxia, nomaxia, and hyperxoia:
 
 ![  ](https://github.com/yibiophotonics/Deep-spectral-learning-sO2/blob/master/Figures-for-readme/Figure7.png)
