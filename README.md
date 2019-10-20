@@ -51,11 +51,11 @@ The fully connected neural network (FNN) model and the convolutional neural netw
 
 2. The input spectra are in csv files:
 
-data_test_rolling_avg_whole_pixels_100_4Lsn_Light_revised_shuffled_LSF2
+   data_test_rolling_avg_whole_pixels_100_4Lsn_Light_revised_shuffled_LSF2
 
-data_test_rolling_avg_whole_pixels_SYC_100_3Bsn_Light_revised_shuffled_LSF2
+   data_test_rolling_avg_whole_pixels_SYC_100_3Bsn_Light_revised_shuffled_LSF2
 
-data_train_rolling_avg_whole_pixels_100_random5_Light_revised_shuffled_LSF2
+   data_train_rolling_avg_whole_pixels_100_random5_Light_revised_shuffled_LSF2
 
    You can make different splits of training and testing data in the demo.
    
@@ -63,13 +63,13 @@ data_train_rolling_avg_whole_pixels_100_random5_Light_revised_shuffled_LSF2
 
 3. Results of so2 predictions and uncertainties in saved in:
 
-NN_uncertainty_map_so2_XX_XX_XX_o2 for so2 predicted by FNN model
+   NN_uncertainty_map_so2_XX_XX_XX_o2 for so2 predicted by FNN model
 
-NN_uncertainty_map_val_XX_XX_XX_o2 for so2 uncertainty by FNN model
+   NN_uncertainty_map_val_XX_XX_XX_o2 for so2 uncertainty by FNN model
 
-CNN_uncertainty_map_so2_XX_XX_XX_o2 for so2 predicted by CNN model
+   CNN_uncertainty_map_so2_XX_XX_XX_o2 for so2 predicted by CNN model
 
-CNN_uncertainty_map_val_XX_XX_XX_o2 for so2 uncertainty by CNN model
+   CNN_uncertainty_map_val_XX_XX_XX_o2 for so2 uncertainty by CNN model
 
 
 
