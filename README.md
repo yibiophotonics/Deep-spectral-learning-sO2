@@ -73,9 +73,9 @@ The fully connected neural network (FNN) model and the convolutional neural netw
 
 
 
-4. Statistical analysis for test data as explained in the paper are in the file: Matlab statistical analysis, with code written in Matlab
+4. Statistical analysis for test data as explained in the paper are in the file: Matlab statistical analysis, with code (Statistical_Analysis.m) written in Matlab
 
-5. Reconstruction of en face maps of so2 and uncertainty as explaied in the paper are in the file: Display of en face maps, with code written in Matlab
+5. Reconstruction of en face maps of so2 and uncertainty as explaied in the paper are in the file: Display of en face maps, with code (Display_so2_uncertainty_maps.m) written in Matlab
 
 
 #### Results:
