@@ -7,7 +7,7 @@ We provide models (a fully connected neural network and a convolutional neural n
 
 #### Citation
 If you find this project useful in your research, please consider citing our paper:
-Deep	spectral	learning	for	label-free	optical	imaging	oximetry	with	uncertainty	quantification
+Deep	spectral	learning	for	label-free	optical	imaging	oximetry	with	uncertainty	quantification, 
 Rongrong	Liu, Shiyi	Cheng, Lei Tian, Ji	Yi
 
 #### Abstract
